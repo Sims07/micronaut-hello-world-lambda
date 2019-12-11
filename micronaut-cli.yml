@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: helloworld.lambda.function
+---
+testFramework: junit
+sourceLanguage: java

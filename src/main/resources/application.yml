@@ -1,0 +1,7 @@
+micronaut:
+  function:
+    name: helloworld-lambda-function
+  io:
+    watch:
+      paths: src/main
+      restart: true
